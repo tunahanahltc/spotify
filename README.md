@@ -32,11 +32,13 @@ Bu proje, kullanıcıların müzik ve podcast içeriklerine kolayca erişmesini 
    ```
 2. Gerekli bağımlılıkları yükleyin:
    ```sh
-   npm install  # veya yarn install
+   flutter pub get
+
    ```
 3. Uygulamayı başlatın:
    ```sh
-   npm start  # veya expo start (React Native için)
+   flutter run
+
    ```
 
 ## 📌 Kullanım
