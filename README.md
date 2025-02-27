@@ -21,8 +21,8 @@ Bu proje, kullanıcıların müzik ve podcast içeriklerine kolayca erişmesini 
 ### Kitaplık sayfası
 <img src="./screenshots/Screenshot_20250228_021632.png" alt="Kitaplık Sayfası" width="250">
 
-###Spotify sayfası:
-<img src="./screenshots/Screenshot_20250228_021355.png" alt="Kitaplık Sayfası" width="300">
+###Spotify sayfası
+<img src="./screenshots/Screenshot_20250228_021355.png" alt="Kitaplık Sayfası" width="250">
 
 </div>
 
