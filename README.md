@@ -33,7 +33,8 @@ Bu proje, kullanıcıların müzik ve podcast içeriklerine kolayca erişmesini 
 ## 📥 Kurulum
 1. Bu repository'yi klonlayın:
    ```sh
-   git clone https://github.com/kullaniciadi/projeadi.git
+   git clone git clone https://github.com/tunahanahltc/spotify.git
+
    ```
 2. Gerekli bağımlılıkları yükleyin:
    ```sh
