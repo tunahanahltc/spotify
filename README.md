@@ -1,12 +1,6 @@
 # 📱 Uygulama Adı
 
-Bu proje, kullanıcıların müzik ve podcast içeriklerine kolayca erişmesini sağlayan bir mobil uygulamadır. Kullanıcı dostu bir arayüzle geniş bir içerik arşivine ulaşabilirsiniz.
-
-## 🚀 Özellikler
-- 🔍 **Gelişmiş Arama:** Kullanıcılar istedikleri içerikleri kolayca bulabilir.
-- 📚 **Kitaplık Yönetimi:** Çalma listeleri oluşturma ve favori içerikleri kaydetme.
-- 🎵 **Öneriler:** Kullanıcı zevkine göre öneriler sunma.
-- 📻 **Popüler Radyolar ve Sanatçılar:** Geniş müzik ve podcast arşivi.
+Bu proje, kullanıcıların müzik ve podcast içeriklerine kolayca erişmesini sağlayan bir mobil uygulama olan SPOTIFY uygulamasının UI yapısının bir kopyasıdır.
 
 ## 📸 Ekran Görüntüleri
 
