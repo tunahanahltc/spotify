@@ -11,13 +11,13 @@ Bu proje, kullanıcıların müzik ve podcast içeriklerine kolayca erişmesini 
 ## 📸 Ekran Görüntüleri
 
 Ana sayfa:
-![Ana Sayfa](./screenshots/Screenshot_20250228_021612.png)
+<img src="./screenshots/Screenshot_20250228_021612.png" alt="Ana Sayfa" width="300">
 
 Arama sayfası:
-![Arama Sayfası](./screenshots/Screenshot_20250228_021624.png)
+<img src="./screenshots/Screenshot_20250228_021624.png" alt="Arama Sayfası" width="300">
 
 Kitaplık sayfası:
-![Kitaplık Sayfası](./screenshots/Screenshot_20250228_021632.png)
+<img src="./screenshots/Screenshot_20250228_021632.png" alt="Kitaplık Sayfası" width="300">
 
 ## 📥 Kurulum
 1. Bu repository'yi klonlayın:
