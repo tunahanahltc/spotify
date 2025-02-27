@@ -10,18 +10,14 @@ Bu proje, kullanıcıların müzik ve podcast içeriklerine kolayca erişmesini 
 
 ## 📸 Ekran Görüntüleri
 
-Ana sayfa:
-<img src="./screenshots/Screenshot_20250228_021632.png" alt="Ana Sayfa" width="300">
+## Ana Sayfa
+![Ana Sayfa](./screenshots/Screenshot_20250228_021612.png)
 
+## Arama Sayfası
+![Arama Sayfası](./screenshots/Screenshot_20250228_021624.png)
 
-
-Arama sayfası:
-<img src="./screenshots/Screenshot_20250228_021624.png" alt="Arama Sayfası" width="300">
-
-
-
-Kitaplık sayfası:
-<img src="./screenshots/Screenshot_20250228_021612.png" alt="Kitaplık Sayfası" width="300">
+## Kitaplık Sayfası
+![Kitaplık Sayfası](./screenshots/Screenshot_20250228_021632.png)
 
 
 
